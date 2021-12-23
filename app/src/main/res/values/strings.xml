@@ -1,0 +1,231 @@
+<resources>
+    <string-array name="pokemonInfo">
+        <item>태어났을 때부터 등에 식물의 씨앗이 있으며 조금씩 크게 자란다.</item>
+        <item>등에 있는 봉오리가 크게 자라면 두 다리로 설 수 없게 되는 듯하다.</item>
+        <item>태양에너지를 양분으로 큰 꽃을 피운다. 양지를 향해 이끌려가듯이 이동한다.</item>
+        <item>뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.</item>
+        <item>불타는 꼬리를 휘두르며 날카로운 발톱으로 상대를 베어 가르는 몹시 거친 성격이다.</item>
+        <item>암석도 태워버릴 정도로 작열하는 화염을 뿜어 산불을 일으킬 때가 있다.</item>
+        <item>기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.</item>
+        <item>장수의 상징으로 여겨진다. 등껍질에 이끼가 붙어 있는 것은 특히 장수한 어니부기다.</item>
+        <item>무거운 몸으로 상대를 덮쳐서 기절시킨다. 위기에 처하면 등껍질에 숨는다.</item>
+        <item>머리의 더듬이로부터 강렬한 냄새를 내어 적을 물리치고 몸을 보호한다.</item>
+        <item>진화를 기다리고 있는 상태다. 단단해지는 것밖에 할 수 없어서 공격받지 않도록 꿈쩍 않고 있다.</item>
+        <item>매우 빠르게 날갯짓하면 맹독성의 인분이 바람을 타고 날아간다.</item>
+        <item>숲이나 풀밭에 많이 서식한다. 머리끝에 5cm 정도의 작고 날카로운 독침을 지니고 있다.</item>
+        <item>스스로는 거의 움직일 수 없지만 위험할 때는 단단해져서 몸을 보호하고 있는 것 같다.</item>
+        <item>양손과 엉덩이에 있는 3개의 독침으로 상대를 찌르고 찌르고 또 찌르며 공격한다.</item>
+        <item>숲이나 수풀에 많이 분포해 있다. 땅에서도 격렬한 날갯짓으로 모래를 뿌리기도 한다.</item>
+        <item>발톱이 발달해 있다. 먹이인 아라리를 잡아 100km 떨어져 있는 둥지까지 나른다.</item>
+        <item>먹이를 찾을 때 수면을 아슬아슬하게 미끄러지듯 날아 잉어킹 등을 움켜잡는다.</item>
+        <item>앞니는 죽을 때까지 계속 자라기 때문에 관리가 필요하다. 이갈이 용품을 준비하지 않으면 기둥을 갉는다.</item>
+        <item>수영이 특기. 뒷발에 작은 물갈퀴가 달려있어 강 때로는 바다를 건너기도 한다.</item>
+        <item>날개가 짧아 나는 것이 서툴다. 쉴 새 없이 움직이며 풀숲의 벌레포켓몬을 쪼아대고 있다.</item>
+        <item>터프하고 지구력도 우수하다. 무거운 짐을 진 채 온종일 날아도 끄떡없다.</item>
+        <item>성장할수록 점점 길어진다. 밤에는 나뭇가지에 몸을 돌돌 말고 쉰다.</item>
+        <item>배의 무늬가 무서운 얼굴로 보인다. 약한 적은 그 무늬만 보고도 도망치고 만다.</item>
+        <item>만들어 내는 전기가 강력한 피카츄일수록 볼의 주머니가 부드럽고 잘 늘어난다.</item>
+        <item>긴 꼬리가 어스가 되어 몸을 지키기 때문에 자신은 고전압에도 마비되지 않는다.</item>
+        <item>건조한 모래땅에서 모래를 끼얹는 것을 좋아한다. 몸에 붙은 지저분한 것들을 떨어뜨리고 물기를 없애는 것이다.</item>
+        <item>습도가 낮은 땅에서 사는 고지일수록 등에 난 가시의 감촉은 단단하고 매끄럽다.</item>
+        <item>몸은 작지만 독침을 지니고 있기 때문에 주의가 필요하다. 암컷의 뿔이 더 작다.</item>
+        <item>암컷으로 성격은 온화하다. 입에서 내보내는 초음파는 상대를 혼란시키는 힘이 있다.</item>
+        <item>비늘로 뒤덮인 튼튼한 몸으로 둥지의 입구를 막아 상대로부터 새끼들을 지킨다.</item>
+        <item>풀밭 위로 귀만 내어 주위의 낌새를 살핀다. 맹독의 뿔로 몸을 보호한다.</item>
+        <item>발달한 귀를 세워 주위의 낌새를 살핀다. 무슨 일이 생기면 바로 덤벼든다.</item>
+        <item>돌처럼 딱딱한 피부와 길게 뻗은 뿔이 특징이다. 뿔에는 독이 있으니 주의해야 한다.</item>
+        <item>보름달 밤에 삐삐가 모여 춤을 추는 모습을 보면 행복해진다고 전해진다.</item>
+        <item>요정의 동료로 좀처럼 사람 앞에 나타나지 않는다. 기척을 느끼면 바로 도망가는 듯하다.</item>
+        <item>어리지만 6개의 꼬리가 아름답다. 성장하면 한층 꼬리 수가 늘어난다.</item>
+        <item>꼬리 하나하나에 신통력이 담겨 있다. 1000년을 산다고 한다.</item>
+        <item>폐활량은 포켓몬 중에서도 톱클래스다. 상대가 잠들 때까지 자장가를 계속 부른다.</item>
+        <item>숨을 들이쉬면 쉴수록 몸이 부푼다. 기분이 나빠지면 몸을 커다랗게 부풀려 상대에게 위압을 가한다.</item>
+        <item>보름달이 뜬 밤에 그림자가 멋대로 움직이면서 웃는다면 팬텀의 소행임이 틀림없다.</item>
+    </string-array>
+    <string-array name="pokemonName">
+        <item>이상해씨</item>
+        <item>이상해풀</item>
+        <item>이상해꽃</item>
+        <item>파이리</item>
+        <item>리자드</item>
+        <item>리자몽</item>
+        <item>꼬부기</item>
+        <item>어니부기</item>
+        <item>거북왕</item>
+        <item>캐터피</item>
+        <item>단데기</item>
+        <item>버터플</item>
+        <item>뿔충이</item>
+        <item>딱충이</item>
+        <item>독침붕</item>
+        <item>구구</item>
+        <item>피죤</item>
+        <item>피죤투</item>
+        <item>꼬렛</item>
+        <item>레트라</item>
+        <item>깨비참</item>
+        <item>깨비드릴조</item>
+        <item>아보</item>
+        <item>아보크</item>
+        <item>피카츄</item>
+        <item>라이츄</item>
+        <item>모래두지</item>
+        <item>고지</item>
+        <item>니드런♀</item>
+        <item>니드리나</item>
+        <item>니드퀸</item>
+        <item>니드런♂</item>
+        <item>니드리노</item>
+        <item>니드킹</item>
+        <item>삐삐</item>
+        <item>픽시</item>
+        <item>식스테일</item>
+        <item>나인테일</item>
+        <item>푸린</item>
+        <item>푸크린</item>
+        <item>팬텀</item>
+    </string-array>
+    <string-array name="pokemonType">
+        <item>씨앗포켓몬</item>
+        <item>씨앗포켓몬</item>
+        <item>씨앗포켓몬</item>
+        <item>도롱뇽포켓몬</item>
+        <item>화염포켓몬</item>
+        <item>화염포켓몬</item>
+        <item>꼬마거북포켓몬</item>
+        <item>거북포켓몬</item>
+        <item>껍질포켓몬</item>
+        <item>애벌레포켓몬</item>
+        <item>번데기포켓몬</item>
+        <item>나비포켓몬</item>
+        <item>송충이포켓몬</item>
+        <item>번데기포켓몬</item>
+        <item>독벌포켓몬</item>
+        <item>아기새포켓몬</item>
+        <item>새포켓몬</item>
+        <item>새포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>아기새포켓몬</item>
+        <item>부리포켓몬</item>
+        <item>뱀포켓몬</item>
+        <item>코브라포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>쥐포켓몬</item>
+        <item>독침포켓몬</item>
+        <item>독침포켓몬</item>
+        <item>드릴포켓몬</item>
+        <item>독침포켓몬</item>
+        <item>독침포켓몬</item>
+        <item>드릴포켓몬</item>
+        <item>요정포켓몬</item>
+        <item>요정포켓몬</item>
+        <item>여우포켓몬</item>
+        <item>여우포켓몬</item>
+        <item>풍선포켓몬</item>
+        <item>풍선포켓몬</item>
+        <item>그림자포켓몬</item>
+    </string-array>
+    <string-array name="pokemonHeight">
+        <item>0.7m</item>
+        <item>1.0m</item>
+        <item>2.0m</item>
+        <item>0.6m</item>
+        <item>1.1m</item>
+        <item>1.7m</item>
+        <item>0.5m</item>
+        <item>1.0m</item>
+        <item>1.6m</item>
+        <item>0.3m</item>
+        <item>0.7m</item>
+        <item>1.1m</item>
+        <item>0.3m</item>
+        <item>0.6m</item>
+        <item>1.0m</item>
+        <item>0.3m</item>
+        <item>1.1m</item>
+        <item>1.5m</item>
+        <item>0.3m</item>
+        <item>0.7m</item>
+        <item>0.3m</item>
+        <item>1.2m</item>
+        <item>2.0m</item>
+        <item>3.5m</item>
+        <item>0.4m</item>
+        <item>0.8m</item>
+        <item>0.6m</item>
+        <item>1.0m</item>
+        <item>0.4m</item>
+        <item>0.8m</item>
+        <item>1.3m</item>
+        <item>0.5m</item>
+        <item>0.9m</item>
+        <item>1.4m</item>
+        <item>0.6m</item>
+        <item>1.3m</item>
+        <item>0.6m</item>
+        <item>1.1m</item>
+        <item>0.5m</item>
+        <item>1.0m</item>
+        <item>1.5m</item>
+    </string-array>
+    <string-array name="pokemonWeight">
+        <item>6.9kg</item>
+        <item>13.0kg</item>
+        <item>100.0kg</item>
+        <item>8.5kg</item>
+        <item>19.0kg</item>
+        <item>90.5kg</item>
+        <item>9.0kg</item>
+        <item>22.5kg</item>
+        <item>85.5kg</item>
+        <item>2.9kg</item>
+        <item>9.9kg</item>
+        <item>32.0kg</item>
+        <item>3.2kg</item>
+        <item>10.0kg</item>
+        <item>29.5kg</item>
+        <item>1.8kg</item>
+        <item>30.0kg</item>
+        <item>39.5kg</item>
+        <item>3.5kg</item>
+        <item>18.5kg</item>
+        <item>2.0kg</item>
+        <item>38.0kg</item>
+        <item>6.9kg</item>
+        <item>65.0kg</item>
+        <item>6.0kg</item>
+        <item>30.0kg</item>
+        <item>12.0kg</item>
+        <item>29.5kg</item>
+        <item>7.0kg</item>
+        <item>20.0kg</item>
+        <item>60.0kg</item>
+        <item>9.0kg</item>
+        <item>19.5kg</item>
+        <item>62.0kg</item>
+        <item>7.5kg</item>
+        <item>40.0kg</item>
+        <item>9.9kg</item>
+        <item>19.9kg</item>
+        <item>5.5kg</item>
+        <item>12.0kg</item>
+        <item>40.5kg</item>
+    </string-array>
+    <string-array name="Guide">
+        <item>포켓몬과 같은 색의 배경은 피해주세요</item>
+        <item>포켓몬의 모습 전체가 드러나게 찍어주세</item>
+        <item>한 화면에 포켓몬 하나만 올 수 있도록 해주세</item>
+        <item>이제 포켓몬을 찍어보러 갈까요?</item>
+    </string-array>
+    <string name="app_name">포켓몬 도감</string>
+    <string name="포켓몬">포켓몬</string>
+    <string name="키">키</string>
+    <string name="몸무게">몸무게</string>
+    <string name="isit">가 맞나요?</string>
+    <string name="type">분류</string>
+
+
+</resources>
