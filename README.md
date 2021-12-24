@@ -14,5 +14,6 @@
 
 ## 앱버전
 minSdkVersion : 24
+
 targetSdkVersion : 30 
 
