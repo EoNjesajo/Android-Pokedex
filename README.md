@@ -1,4 +1,6 @@
 # 포켓몬 도감
+![image](https://user-images.githubusercontent.com/90492809/195988030-c5bbc9c1-6b2c-47e9-bb1a-e11b191cc6f7.png)
+
 카메라를 이용해 41가지(No.0~40 + 팬텀)의 포켓몬 인형을 구분하고, 해당 포켓몬의 대략적인 정보를 알려주는 어플입니다.
 
 ## 소개  
